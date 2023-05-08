@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<UI>
+
+  <Version Value="1.0"/>
+
+  <Aliases/>
+
+  <Layouts>
+    <Layout ID="0x220006ED">
+      <Element Height="0.113992" ID="HotStoryQuestJournal_QuestEntry" Width="0.088790" X="0.866815" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x22000019">
+      <Element Height="0.282779" ID="CharacterSheetField" Width="0.138554" X="0.395102" Y="0.298679"/>
+    </Layout>
+    <Layout ID="0x22000076">
+      <Element Height="0.606164" ID="SocialField" Width="0.567575" X="0.327528" Y="0.003669"/>
+    </Layout>
+    <Layout ID="0x22000876">
+      <Element Height="0.282290" ID="ImageRewardGallery_Menu" Width="0.218701" X="-0.000131" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x220005DC">
+      <Element Height="0.282779" ID="AdventureCompendium_Field" Width="0.167365" X="0.215951" Y="0.066292"/>
+    </Layout>
+    <Layout ID="0x2200008F">
+      <Element Height="0.392368" ID="Guild_Bank_Field" Width="0.253536" X="0.732452" Y="0.192515"/>
+      <Element Height="0.130626" ID="Bank_Field" Width="0.055788" X="0.691854" Y="0.000245"/>
+      <Element Height="0.627691" ID="Account_Bank_Field" Width="0.369041" X="0.318884" Y="0.064824"/>
+      <Element Height="0.350783" ID="Character_Bank_Field" Width="0.252750" X="0.746071" Y="0.076566"/>
+      <Element Height="0.550391" ID="Reincarnation_Bank_Field" Width="0.268203" X="0.388030" Y="0.287427"/>
+    </Layout>
+    <Layout ID="0x2200004A">
+      <Element Height="0.136986" ID="HotQuestJournal_QuestEntry" Width="0.088790" X="0.866815" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x22000862">
+      <Element Height="0.285714" ID="DailiesRewardField" Width="0.113672" X="0.129256" Y="0.073141"/>
+    </Layout>
+    <Layout ID="0x220005DE">
+      <Element Height="0.256849" ID="Auction_MainFieldBlackMarket" Width="0.239654" X="0.274358" Y="0.000245"/>
+      <Element Height="0.256849" ID="Auction_MainField" Width="0.239654" X="0.251310" Y="0.002202"/>
+    </Layout>
+    <Layout ID="0x22000739">
+      <Element Height="0.280333" ID="PetCharacterSheet_MainField" Width="0.122839" X="0.160686" Y="0.087818"/>
+    </Layout>
+    <Layout ID="0x2200084D">
+      <Element Height="0.121820" ID="GlobalObjectives" Width="0.104505" X="0.842981" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x2200087B">
+      <Element Height="0.282290" ID="AirshipShowroom_Menu" Width="0.218439" X="-0.000131" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x2200087D">
+      <Element Height="0.286693" ID="HenchmanCustomizeAI_Menu" Width="0.086433" X="-0.000131" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x220005CB">
+      <Element Height="0.156556" ID="Mail_MainField" Width="0.134364" X="0.501179" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x2200000B">
+      <Element Height="0.165362" ID="FellowshipDisplay" Width="0.090100" X="0.000393" Y="0.317270"/>
+      <Element Height="0.040607" ID="FocusField" Width="0.053693" X="0.120089" Y="0.050147"/>
+      <Element Height="0.030822" ID="PendingChallengeButton" Width="0.033264" X="0.451152" Y="0.392613"/>
+      <Element Height="0.060176" ID="FocusOrb" Width="0.080409" X="0.600183" Y="0.704746"/>
+      <Element Height="0.021037" ID="HenchmanBar" Width="0.114458" X="0.426270" Y="0.691047"/>
+      <Element Height="0.090509" ID="FocusOrb_Classic" Width="0.035359" X="0.745024" Y="0.634785"/>
+      <Element Height="0.043053" ID="Vitals" Width="0.067313" X="-0.000131" Y="0.076566"/>
+      <Element Height="0.058219" ID="AlchemistReactionDisplay" Width="0.031168" X="-0.000131" Y="0.187622"/>
+      <Element Height="0.037182" ID="Vitals_minimal" Width="0.050550" X="0.006679" Y="0.076566"/>
+      <Element Height="0.017613" ID="Hud_NetStatus_Vessel" Width="0.010215" X="0.476297" Y="0.000245"/>
+      <Element Height="0.022505" ID="ShortcutsBar" Width="0.105553" X="0.250000" Y="0.963552"/>
+    </Layout>
+    <Layout ID="0x220005E3">
+      <Element Height="0.070450" ID="ArenaScoring_SummaryPanel" Width="0.088790" X="0.338790" Y="0.096135"/>
+    </Layout>
+    <Layout ID="0x22000069">
+      <Element Height="0.021526" ID="UndockedShortcut17_Horizontal_MarkerList" Width="0.105291" X="0.494369" Y="0.854452"/>
+      <Element Height="0.021526" ID="UndockedShortcut1_Horizontal_MarkerList" Width="0.105291" X="0.250262" Y="0.940558"/>
+      <Element Height="0.021526" ID="UndockedShortcut2_Horizontal_MarkerList" Width="0.105291" X="0.250000" Y="0.917074"/>
+      <Element Height="0.021526" ID="UndockedShortcut3_Horizontal_MarkerList" Width="0.105291" X="0.250262" Y="0.894569"/>
+      <Element Height="0.021526" ID="UndockedShortcut4_Horizontal_MarkerList" Width="0.105291" X="0.250000" Y="0.872065"/>
+      <Element Height="0.021526" ID="UndockedShortcut5_Horizontal_MarkerList" Width="0.105291" X="0.250524" Y="0.850049"/>
+      <Element Height="0.021526" ID="UndockedShortcut6_Horizontal_MarkerList" Width="0.105291" X="0.371006" Y="0.964530"/>
+      <Element Height="0.194716" ID="UndockedShortcut18_Vertical_MarkerList" Width="0.011001" X="0.976297" Y="0.773239"/>
+      <Element Height="0.194716" ID="UndockedShortcut19_Vertical_MarkerList" Width="0.011001" X="0.988869" Y="0.776174"/>
+      <Element Height="0.021526" ID="UndockedShortcut7_Horizontal_MarkerList" Width="0.105291" X="0.371006" Y="0.942025"/>
+      <Element Height="0.021526" ID="UndockedShortcut10_Horizontal_MarkerList" Width="0.105291" X="0.369958" Y="0.875489"/>
+      <Element Height="0.021526" ID="UndockedShortcut8_Horizontal_MarkerList" Width="0.105291" X="0.370482" Y="0.920010"/>
+      <Element Height="0.021526" ID="UndockedShortcut9_Horizontal_MarkerList" Width="0.105029" X="0.370482" Y="0.897505"/>
+      <Element Height="0.021526" ID="UndockedShortcut11_Horizontal_MarkerList" Width="0.105291" X="0.369958" Y="0.854452"/>
+      <Element Height="0.021526" ID="UndockedShortcut12_Horizontal_MarkerList" Width="0.105291" X="0.494631" Y="0.965020"/>
+      <Element Height="0.021526" ID="UndockedShortcut13_Horizontal_MarkerList" Width="0.105291" X="0.494893" Y="0.943004"/>
+      <Element Height="0.021526" ID="UndockedShortcut14_Horizontal_MarkerList" Width="0.105291" X="0.494631" Y="0.920988"/>
+      <Element Height="0.021526" ID="UndockedShortcut15_Horizontal_MarkerList" Width="0.105291" X="0.494107" Y="0.898973"/>
+      <Element Height="0.021526" ID="UndockedShortcut16_Horizontal_MarkerList" Width="0.105291" X="0.494369" Y="0.877446"/>
+    </Layout>
+    <Layout ID="0x22000880">
+      <Element Height="0.231898" ID="Augment_MainField" Width="0.085647" X="-0.000131" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x22000099">
+      <Element Height="0.231409" ID="BaseOptionsField" Width="0.135149" X="0.360529" Y="0.204746"/>
+    </Layout>
+    <Layout ID="0x22000600">
+      <Element Height="0.151663" ID="ArenaQueue_AdminSummaryPanel" Width="0.088790" X="0.348219" Y="0.076566"/>
+    </Layout>
+    <Layout ID="0x22000040">
+      <Element Height="0.259785" ID="Quest_Field" Width="0.159770" X="0.681378" Y="0.131360"/>
+    </Layout>
+    <Layout ID="0x22000885">
+      <Element Height="0.233366" ID="SentientSlot_MainField" Width="0.059455" X="0.188711" Y="0.458659"/>
+    </Layout>
+    <Layout ID="0x2200009E">
+      <Element Height="0.104697" ID="RadarField" Width="0.042954" X="0.776192" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x22000858">
+      <Element Height="0.359100" ID="EpicDesitiny_Menu" Width="0.218439" X="0.307360" Y="0.045254"/>
+    </Layout>
+    <Layout ID="0x22000015">
+      <Element Height="0.307730" ID="Inventory_Field" Width="0.138554" X="0.789026" Y="0.562378"/>
+    </Layout>
+    <Layout ID="0x22000870">
+      <Element Height="0.359100" ID="reincarnation_mainField" Width="0.192247" X="-0.000131" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x22000859">
+      <Element Height="0.282290" ID="MonsterManual_Menu" Width="0.191200" X="0.035490" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x220000A1">
+      <Element Height="0.034247" ID="Dice_Field" Width="0.067837" X="0.281430" Y="0.740949"/>
+    </Layout>
+    <Layout ID="0x22000872">
+      <Element Height="0.282290" ID="AmenityInventory_Menu" Width="0.218439" X="-0.000131" Y="0.000245"/>
+    </Layout>
+    <Layout ID="0x2200008B">
+      <Element Height="0.276908" ID="ChatDisplay1" Width="0.207700" X="-0.000131" Y="0.722358"/>
+    </Layout>
+  </Layouts>
+
+  <Options>
+    <Option Name="AcceptChallengeRequest" Value="True"/>
+    <Option Name="AcceptGuildRequest" Value="True"/>
+    <Option Name="AcceptPartyRequest" Value="True"/>
+    <Option Name="AcceptTradeRequest" Value="True"/>
+    <Option Name="AllowTemporaryMouselookSuspension" Value="True"/>
+    <Option Name="Attack_ClickAndHold" Value="True"/>
+    <Option Name="AutoHide_TargetUI" Value="False"/>
+    <Option Name="AutoTargetBreakables" Value="True"/>
+    <Option Name="AutoTargetMonsters" Value="True"/>
+    <Option Name="AutoTargetNonMonsters" Value="True"/>
+    <Option Name="AutoattackOnDoubleclick" Value="True"/>
+    <Option Name="ChatReset" Value="False"/>
+    <Option Name="CombatFeedbackText_AllMessagesOff" Value="False"/>
+    <Option Name="CombatFeedbackText_CasterLevelMessagesOff" Value="False"/>
+    <Option Name="CombatFeedbackText_DefensiveRollFeedbackOff" Value="False"/>
+    <Option Name="CombatFeedbackText_DiceOff" Value="False"/>
+    <Option Name="CombatFeedbackText_EffectsOff" Value="False"/>
+    <Option Name="CombatFeedbackText_EvasionFeedbackOff" Value="False"/>
+    <Option Name="CombatFeedbackText_HealingMessagesOff" Value="False"/>
+    <Option Name="CombatFeedbackText_HenchmanMessagesOff" Value="False"/>
+    <Option Name="CombatFeedbackText_MissMessagesOff" Value="False"/>
+    <Option Name="CombatFeedbackText_RemovalNoticeOff" Value="False"/>
+    <Option Name="CombatFeedbackText_TargetingYouOff" Value="False"/>
+    <Option Name="CombatFeedbackText_YourActionsOff" Value="False"/>
+    <Option Name="CombatFeedbackText_ZeroDamageMessagesOff" Value="False"/>
+    <Option Name="DisableAdviceChatInPrivate" Value="False"/>
+    <Option Name="DisableChatFiltering" Value="False"/>
+    <Option Name="DisableGeneralChatInPrivate" Value="False"/>
+    <Option Name="DisableTradeChatInPrivate" Value="False"/>
+    <Option Name="DungeonExitConfirmation" Value="True"/>
+    <Option Name="Examination_LongDescriptions" Value="True"/>
+    <Option Name="FloatyText_AmplifiedDamageColor" Value="0.624 0.224 0.624 1.000"/>
+    <Option Name="FloatyText_BossColor" Value="0.973 0.024 0.024 1.000"/>
+    <Option Name="FloatyText_CosmeticPetColor" Value="0.773 1.000 0.773 1.000"/>
+    <Option Name="FloatyText_DamageColor" Value="0.973 0.424 0.004 1.000"/>
+    <Option Name="FloatyText_EffectColor" Value="0.475 0.475 0.475 1.000"/>
+    <Option Name="FloatyText_EffectHarmfulColor" Value="1.000 1.000 0.000 1.000"/>
+    <Option Name="FloatyText_HealColor" Value="0.000 1.000 0.000 1.000"/>
+    <Option Name="FloatyText_HealReducedColor" Value="0.000 0.475 0.000 1.000"/>
+    <Option Name="FloatyText_KillColor" Value="0.973 0.424 0.004 1.000"/>
+    <Option Name="FloatyText_MiniBossColor" Value="0.973 0.322 0.000 1.000"/>
+    <Option Name="FloatyText_MissColor" Value="1.000 1.000 1.000 1.000"/>
+    <Option Name="FloatyText_MonsterColor" Value="0.973 0.722 0.000 1.000"/>
+    <Option Name="FloatyText_NPCColor" Value="1.000 1.000 0.424 1.000"/>
+    <Option Name="FloatyText_PartyColor" Value="0.773 0.773 0.922 1.000"/>
+    <Option Name="FloatyText_PlayerAmplifiedDamageColor" Value="1.000 0.475 0.475 1.000"/>
+    <Option Name="FloatyText_PlayerColor" Value="0.373 0.373 0.820 1.000"/>
+    <Option Name="FloatyText_PlayerDamageColor" Value="1.000 0.000 0.000 1.000"/>
+    <Option Name="FloatyText_PlayerEffectColor" Value="1.000 1.000 1.000 1.000"/>
+    <Option Name="FloatyText_PlayerEffectHarmfulColor" Value="1.000 0.000 0.000 1.000"/>
+    <Option Name="FloatyText_PlayerHealColor" Value="0.733 0.302 0.267 1.000"/>
+    <Option Name="FloatyText_PlayerHealReducedColor" Value="0.000 0.475 0.000 1.000"/>
+    <Option Name="FloatyText_PlayerMissColor" Value="0.475 0.475 0.475 1.000"/>
+    <Option Name="FloatyText_PlayerReducedDamageColor" Value="0.475 0.000 0.000 1.000"/>
+    <Option Name="FloatyText_PlayerSpellPointColor" Value="0.000 0.000 0.600 1.000"/>
+    <Option Name="FloatyText_PlayerSpellPointHealColor" Value="0.039 0.094 0.541 1.000"/>
+    <Option Name="FloatyText_RaidBossColor" Value="0.773 0.322 1.000 1.000"/>
+    <Option Name="FloatyText_ReducedDamageColor" Value="1.000 1.000 0.000 1.000"/>
+    <Option Name="FloatyText_ShowDamageTypeIcons" Value="True"/>
+    <Option Name="FloatyText_ShowEssenceRetainedMessage" Value="True"/>
+    <Option Name="FloatyText_ShowGuildNames" Value="True"/>
+    <Option Name="FloatyText_ShowOldDamageFormat" Value="True"/>
+    <Option Name="FloatyText_ShowPlayerDamage" Value="True"/>
+    <Option Name="FloatyText_ShowPlayerEffects" Value="True"/>
+    <Option Name="FloatyText_ShowProfessionNames" Value="True"/>
+    <Option Name="FloatyText_ShowTitles" Value="True"/>
+    <Option Name="FloatyText_SpellPointColor" Value="0.000 0.000 0.600 1.000"/>
+    <Option Name="FloatyText_SpellPointHealColor" Value="0.075 0.075 1.000 1.000"/>
+    <Option Name="FloatyText_UsableColor" Value="1.000 1.000 0.424 1.000"/>
+    <Option Name="GlobalObjectivesOff" Value="False"/>
+    <Option Name="HintsOff" Value="True"/>
+    <Option Name="HintsReset" Value="False"/>
+    <Option Name="HirelingStandGroundBanners" Value="True"/>
+    <Option Name="HotQuestPanelState" Value="Opaque"/>
+    <Option Name="LFX_Enable" Value="True"/>
+    <Option Name="LockShortcutBars" Value="False"/>
+    <Option Name="Map_Level" Value="Game"/>
+    <Option Name="Map_LockToPlayer" Value="True"/>
+    <Option Name="Map_Region" Value="Stormreach"/>
+    <Option Name="MouseOverFriendlyInDungeon" Value="True"/>
+    <Option Name="MouseTargetingOn" Value="True"/>
+    <Option Name="PlayLocalizedDMTextSound" Value="False"/>
+    <Option Name="QuestEndRewardsBasedOnClass" Value="True"/>
+    <Option Name="Show3D_Portrait" Value="True"/>
+    <Option Name="ShowBigVitals" Value="True"/>
+    <Option Name="ShowComparisonTooltips" Value="True"/>
+    <Option Name="ShowDragonmarkOff" Value="False"/>
+    <Option Name="ShowDroppedQuestItemsAlert" Value="True"/>
+    <Option Name="ShowGuildMemberStatusMessage" Value="True"/>
+    <Option Name="ShowMonsterOverheadAwarenessIcons" Value="True"/>
+    <Option Name="ShowMonsterOverheadHealthBars" Value="True"/>
+    <Option Name="ShowOverheadCosmeticPetNames" Value="True"/>
+    <Option Name="ShowOverheadHealthBar" Value="True"/>
+    <Option Name="ShowOverheadNames" Value="True"/>
+    <Option Name="ShowPartyVitals" Value="True"/>
+    <Option Name="ShowPetBarsInParty" Value="False"/>
+    <Option Name="ShowPlayerOverheadHealthBar" Value="True"/>
+    <Option Name="ShowShortcutNumbers" Value="True"/>
+    <Option Name="ShowShortcutTimeouts" Value="True"/>
+    <Option Name="ShowTargetedBreakableNames" Value="True"/>
+    <Option Name="ShowTargetedMonsterNames" Value="True"/>
+    <Option Name="ShowTargetedUsableNames" Value="True"/>
+    <Option Name="ShowVitalsNumbers" Value="True"/>
+    <Option Name="ShowVitalsNumbersInParty" Value="True"/>
+    <Option Name="ShowVitalsPercentages" Value="False"/>
+    <Option Name="ShowVitalsPercentagesInParty" Value="False"/>
+    <Option Name="StickySelection" Value="True"/>
+    <Option Name="SurpressWorldEventsOnBillboard" Value="False"/>
+    <Option Name="TextColor_Advice" Value="1.000 0.965 0.373 1.000"/>
+    <Option Name="TextColor_Auction" Value="1.000 0.675 0.122 1.000"/>
+    <Option Name="TextColor_Broadcast" Value="0.769 0.000 0.071 1.000"/>
+    <Option Name="TextColor_Effect" Value="0.475 0.824 1.000 1.000"/>
+    <Option Name="TextColor_Glossary" Value="0.961 0.722 0.024 1.000"/>
+    <Option Name="TextColor_Group" Value="0.020 0.710 0.200 1.000"/>
+    <Option Name="TextColor_Guild" Value="0.000 0.824 1.000 1.000"/>
+    <Option Name="TextColor_Hardcore" Value="0.875 0.000 0.122 1.000"/>
+    <Option Name="TextColor_NPC" Value="0.624 0.875 0.024 1.000"/>
+    <Option Name="TextColor_Say" Value="1.000 1.000 1.000 1.000"/>
+    <Option Name="TextColor_Tell" Value="1.000 0.718 0.000 1.000"/>
+    <Option Name="TextColor_UserChat1" Value="1.000 0.718 0.000 1.000"/>
+    <Option Name="TextColor_UserChat2" Value="1.000 0.718 0.000 1.000"/>
+    <Option Name="TextColor_UserChat3" Value="1.000 0.718 0.000 1.000"/>
+    <Option Name="TextColor_UserChat4" Value="1.000 0.718 0.000 1.000"/>
+    <Option Name="TextColor_WorldEvent" Value="0.675 0.275 0.071 1.000"/>
+    <Option Name="UndockNewHenchmenBars" Value="True"/>
+    <Option Name="VoiceEnabled" Value="True"/>
+  </Options>
+
+</UI>
