@@ -731,7 +731,6 @@
       <Stances>Shadow Training II</Stances>
       <Stances>Shadow Training III</Stances>
       <Stances>Epic Defensive Fighting</Stances>
-      <Stances>Ocean Stance</Stances>
       <Stances>Precision</Stances>
       <Stances>Primal Scream</Stances>
       <Stances>Two Handed Fighting</Stances>
@@ -744,6 +743,8 @@
       <Stances>Ancient Blessings</Stances>
       <Stances>Tabaxi Trailblazer</Stances>
       <Stances>Centered</Stances>
+      <Stances>Ocean Stance</Stances>
+      <Stances>No Missed Step</Stances>
     </ActiveStances>
     <Level4>Dexterity</Level4>
     <Level8>Dexterity</Level8>
@@ -765,7 +766,7 @@
       <TreeName>Henshin Mystic</TreeName>
       <TreeName>Ninja Spy</TreeName>
       <TreeName>Horizon Walker</TreeName>
-      <TreeName>Shintao</TreeName>
+      <TreeName>Falconry</TreeName>
     </SelectedEnhancementTrees>
     <SelectedDestinyTrees>
       <TreeName>Grandmaster of Flowers</TreeName>
@@ -1114,26 +1115,6 @@
       <TreeVersion>1</TreeVersion>
     </EnhancementSpendInTree>
     <EnhancementSpendInTree>
-      <TreeName>Ninja Spy</TreeName>
-      <TreeVersion>2</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>NSCore1</EnhancementName>
-        <Ranks>1</Ranks>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>NSAcrobatic</EnhancementName>
-        <Ranks>3</Ranks>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>NSFasterSneakingI</EnhancementName>
-        <Ranks>1</Ranks>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>NSAgility</EnhancementName>
-        <Ranks>3</Ranks>
-      </TrainedEnhancement>
-    </EnhancementSpendInTree>
-    <EnhancementSpendInTree>
       <TreeName>Falconry</TreeName>
       <TreeVersion>1</TreeVersion>
     </EnhancementSpendInTree>
@@ -1171,11 +1152,6 @@
       </TrainedEnhancement>
       <TrainedEnhancement>
         <EnhancementName>HMHenshinStaffTrainingIII</EnhancementName>
-        <Ranks>1</Ranks>
-      </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>HMAbilityScoreI</EnhancementName>
-        <Selection>+1 Dexterity</Selection>
         <Ranks>1</Ranks>
       </TrainedEnhancement>
     </EnhancementSpendInTree>
@@ -1301,18 +1277,6 @@
         <EnhancementName>KenseiAthleticMastery</EnhancementName>
         <Ranks>3</Ranks>
       </TrainedEnhancement>
-      <TrainedEnhancement>
-        <EnhancementName>KenseiCriticalMastery</EnhancementName>
-        <Ranks>1</Ranks>
-      </TrainedEnhancement>
-    </EnhancementSpendInTree>
-    <EnhancementSpendInTree>
-      <TreeName>Horizon Walker</TreeName>
-      <TreeVersion>1</TreeVersion>
-      <TrainedEnhancement>
-        <EnhancementName>HWCore1</EnhancementName>
-        <Ranks>1</Ranks>
-      </TrainedEnhancement>
     </EnhancementSpendInTree>
     <EnhancementSpendInTree>
       <TreeName>Tabaxi Trailblazer</TreeName>
@@ -1364,6 +1328,38 @@
         <Ranks>1</Ranks>
       </TrainedEnhancement>
     </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Horizon Walker</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HWCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWEyeForAccuracy</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWPlanarDodge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWFavoredEnemy</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWProtectionFromEvilAndGood</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWNoStepMissed</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
     <ReaperSpendInTree>
       <TreeName>Grim Barricade</TreeName>
       <TreeVersion>1</TreeVersion>
@@ -1387,6 +1383,10 @@
       <TrainedEnhancement>
         <EnhancementName>GrimBulwarkShroudI</EnhancementName>
         <Selection>PRR</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersLuck</EnhancementName>
         <Ranks>3</Ranks>
       </TrainedEnhancement>
       <TrainedEnhancement>
@@ -1447,6 +1447,14 @@
         <Ranks>3</Ranks>
       </TrainedEnhancement>
       <TrainedEnhancement>
+        <EnhancementName>GrimReapersSteadfastness</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersResistance</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
         <EnhancementName>GrimReapersHeightenedEvasionII</EnhancementName>
         <Ranks>1</Ranks>
       </TrainedEnhancement>
@@ -1467,6 +1475,10 @@
         <EnhancementName>GrimReapersSaveV</EnhancementName>
         <Selection>Reflex Save</Selection>
         <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersCharge</EnhancementName>
+        <Ranks>1</Ranks>
       </TrainedEnhancement>
       <TrainedEnhancement>
         <EnhancementName>GrimCore6</EnhancementName>
@@ -1499,7 +1511,7 @@
       </TrainedEnhancement>
       <TrainedEnhancement>
         <EnhancementName>DAReapersShotI</EnhancementName>
-        <Ranks>3</Ranks>
+        <Ranks>2</Ranks>
       </TrainedEnhancement>
       <TrainedEnhancement>
         <EnhancementName>DAReapersTacticsII</EnhancementName>
@@ -4177,15 +4189,15 @@
         </EquipmentSlot>
         <ItemAugment>
           <Type>IoD: Accessory: Scale Slot</Type>
-          <SelectedAugment>Scale: +53 False Life</SelectedAugment>
+          <SelectedAugment>Scale: +14 Wisdom</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>IoD: Accessory: Fang Slot</Type>
-          <SelectedAugment>Fang: Accuracy +21</SelectedAugment>
+          <SelectedAugment>Fang: Deception +11</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>IoD: Accessory: Claw Slot</Type>
-          <SelectedAugment>Claw: Trip</SelectedAugment>
+          <SelectedAugment>Claw: +15 Assassinate</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>IoD: Accessory: Horn Slot</Type>
@@ -4457,16 +4469,12 @@
         </ItemAugment>
       </Bracers>
       <Armor>
-        <Name>Legendary Stalker's Outfit</Name>
-        <Icon>Cloth_LegendaryStalkersOutfit</Icon>
-        <Description>This nimble outfit appears to contain patches of Dinosaur leather.</Description>
-        <DropLocation>Quest: All Hail the King</DropLocation>
+        <Name>Dinosaur Bone Robe</Name>
+        <Icon>Cloth_DinosaurBone</Icon>
+        <Description>This armor is expertly crafted of impossibly strong Dinosaur bone.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
         <MinLevel>31</MinLevel>
         <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
-        <EffectDescription>Constitution +14: Passive: +14 Enhancement Bonus to Constitution.</EffectDescription>
-        <EffectDescription>Insightful Spell Resistance +20: +20 Insight bonus to spell resistance.</EffectDescription>
-        <EffectDescription>Quality Dodge Bonus +3%: +3% Quality bonus to Dodge.</EffectDescription>
-        <EffectDescription>Insightful Fortification +74%: Passive: +74% Insight Bonus to Fortification.</EffectDescription>
         <Requirements>
           <RequiresNoneOf>
             <Requirement>
@@ -4481,7 +4489,6 @@
         <EquipmentSlot>
           <Armor/>
         </EquipmentSlot>
-        <SetBonus>Dread Stalker</SetBonus>
         <Effect>
           <Type>ArmorCheckPenalty</Type>
           <Bonus>Armor</Bonus>
@@ -4497,35 +4504,31 @@
           <Bonus>Enhancement</Bonus>
           <Amount>15</Amount>
         </Effect>
-        <Effect>
-          <Type>AbilityBonus</Type>
-          <Bonus>Enhancement</Bonus>
-          <Amount>14</Amount>
-          <Ability>Constitution</Ability>
-        </Effect>
-        <Effect>
-          <Type>SpellResistance</Type>
-          <Bonus>Insightful</Bonus>
-          <Amount>20</Amount>
-        </Effect>
-        <Effect>
-          <Type>DodgeBonus</Type>
-          <Bonus>Quality</Bonus>
-          <Amount>3</Amount>
-        </Effect>
-        <Effect>
-          <Type>Fortification</Type>
-          <Bonus>Insightful</Bonus>
-          <Amount>74</Amount>
-        </Effect>
         <ItemAugment>
-          <Type>Blue</Type>
-          <SelectedAugment>Sapphire of Fortification</SelectedAugment>
-          <Value>100</Value>
+          <Type>IoD: Armor: Scale Slot</Type>
+          <SelectedAugment>Goldscale</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Armor: Fang Slot</Type>
+          <SelectedAugment>Goldfang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: +15 Assassinate</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: Relentless Fury</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>Green</Type>
-          <SelectedAugment>Draconic Soul Gem</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
         </ItemAugment>
         <ItemAugment>
           <Type>Mythic</Type>
@@ -4643,22 +4646,21 @@
         </ItemAugment>
         <ItemAugment>
           <Type>IoD: Accessory: Horn Slot</Type>
-          <SelectedAugment>Horn: +21 Armor Piercing</SelectedAugment>
+          <SelectedAugment>Horn: +12 Resistance</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>Blue</Type>
           <SelectedAugment>Sapphire of Dodge</SelectedAugment>
-          <Value>12</Value>
+          <Value>14</Value>
         </ItemAugment>
         <ItemAugment>
           <Type>Green</Type>
-          <SelectedAugment>Sapphire of Resistance</SelectedAugment>
-          <Value>12</Value>
+          <SelectedAugment>Sapphire of Protection</SelectedAugment>
+          <Value>11</Value>
         </ItemAugment>
         <ItemAugment>
           <Type>Yellow</Type>
-          <SelectedAugment>Diamond of Strength</SelectedAugment>
-          <Value>14</Value>
+          <SelectedAugment>Topaz of Feather Fall</SelectedAugment>
         </ItemAugment>
         <ItemAugment>
           <Type>Mythic</Type>

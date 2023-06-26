@@ -1,0 +1,3278 @@
+<DDOCharacterData>
+  <Character>
+    <Name>Aurus</Name>
+    <Alignment>Chaotic Good</Alignment>
+    <Race>Shadar-Kai</Race>
+    <AbilitySpend>
+      <UserSelectedSpend>28</UserSelectedSpend>
+      <AvailableSpend>36</AvailableSpend>
+      <StrSpend>0</StrSpend>
+      <DexSpend>10</DexSpend>
+      <ConSpend>8</ConSpend>
+      <IntSpend>8</IntSpend>
+      <WisSpend>0</WisSpend>
+      <ChaSpend>0</ChaSpend>
+    </AbilitySpend>
+    <GuildLevel>0</GuildLevel>
+    <StrTome>8</StrTome>
+    <DexTome>8</DexTome>
+    <ConTome>8</ConTome>
+    <IntTome>8</IntTome>
+    <WisTome>8</WisTome>
+    <ChaTome>8</ChaTome>
+    <SkillTomes>
+      <Balance>0</Balance>
+      <Bluff>0</Bluff>
+      <Concentration>0</Concentration>
+      <Diplomacy>0</Diplomacy>
+      <DisableDevice>0</DisableDevice>
+      <Haggle>0</Haggle>
+      <Heal>0</Heal>
+      <Hide>0</Hide>
+      <Intimidate>0</Intimidate>
+      <Jump>0</Jump>
+      <Listen>0</Listen>
+      <MoveSilently>0</MoveSilently>
+      <OpenLock>0</OpenLock>
+      <Perform>0</Perform>
+      <Repair>0</Repair>
+      <Search>0</Search>
+      <SpellCraft>0</SpellCraft>
+      <Spot>0</Spot>
+      <Swim>0</Swim>
+      <Tumble>0</Tumble>
+      <UMD>0</UMD>
+    </SkillTomes>
+    <SpecialFeats>
+      <TrainedFeat>
+        <FeatName>Past Life: Alchemist</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Artificer</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Bard</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Cleric</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Druid</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Favored Soul</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Fighter</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Monk</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Paladin</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Ranger</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Rogue</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Rogue</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Sorcerer</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warlock</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Wizard</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Aasimar</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Aasimar</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Orc</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Orc</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Power Over Life and Death</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Skill Mastery</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Ancient Power</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Falconry Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Harper Agent Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Fate Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Fate Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Fate Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Physical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Physical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Racial Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Universal Action Point</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inquisitive Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Vistani Knife Fighter Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Aasimar</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Fast Healing</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Orc</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dwarf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dwarf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Drow</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Shifter</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Shifter</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Shifter</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Doublestrike</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Doublestrike</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Ancient Tactics</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dwarf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Fast Healing</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Spell Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Spell Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Ancient Blessings</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Gnome</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Ranged Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Halfling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Halfling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>House Jorasco Favor Rewards</FeatName>
+        <Type>Favor</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Human</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Energy Criticals</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Arcane Alacrity</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Enchant Weapon</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Human</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Ancient Tactics</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Human</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Arcane Alacrity</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Tiefling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Ancient Power</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Ancient Tactics</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Arcane Alacrity</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Energy Criticals</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Gnome</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Gnome</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Halfling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Fast Healing</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Doublestrike</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Energy Criticals</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Drow</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Ancient Blessings</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warforged</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warforged</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Warforged</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Ancient Power</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Divine Crusader</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Draconic Incarnation</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Exalted Angel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Fatesinger</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Grandmaster of Flowers</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Legendary Dreadnought</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Magus of the Eclipse</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Primal Avatar</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shadowdancer</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Shiradi Champion</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Unyielding Sentinel</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Ancient Knowledge</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Colors of the Queen</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Fortification</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Drow</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Magical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Physical Resistance</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Ranged Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Tome of Destiny</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Colors of the Queen</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Tiefling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Tiefling</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Fortification</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dragonborn</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dragonborn</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Fortification</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Ancient Blessings</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Dragonborn</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Colors of the Queen</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Half-Elf</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Tabaxi</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Ancient Knowledge</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Skill Mastery</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Martial Sphere: Skill Mastery</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Arcane Sphere: Ancient Knowledge</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Monk</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Monk</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Tabaxi</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Tabaxi</FeatName>
+        <Type>RacialPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Divine Sphere: Power Over Life and Death</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Rogue</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Fighter</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Fighter</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Horizon Walker Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+    </SpecialFeats>
+    <ActiveStances>
+      <Stances>Cloth Armor</Stances>
+      <Stances>Good</Stances>
+      <Stances>Chaotic</Stances>
+      <Stances>Shadar-Kai</Stances>
+      <Stances>Two Weapon Fighting</Stances>
+      <Stances>Dagger</Stances>
+      <Stances>Centered</Stances>
+      <Stances>Shadowform Mantle</Stances>
+    </ActiveStances>
+    <Level4>Strength</Level4>
+    <Level8>Strength</Level8>
+    <Level12>Strength</Level12>
+    <Level16>Strength</Level16>
+    <Level20>Strength</Level20>
+    <Level24>Strength</Level24>
+    <Level28>Strength</Level28>
+    <Level32>Strength</Level32>
+    <Level36>Strength</Level36>
+    <Level40>Strength</Level40>
+    <Class1>Rogue</Class1>
+    <Class2>Fighter</Class2>
+    <Class3>Unknown</Class3>
+    <SelectedEnhancementTrees>
+      <TreeName>Shadar-Kai</TreeName>
+      <TreeName>Assassin</TreeName>
+      <TreeName>Vistani Knife Fighter</TreeName>
+      <TreeName>Mechanic</TreeName>
+      <TreeName>Thief-Acrobat</TreeName>
+      <TreeName>Horizon Walker</TreeName>
+      <TreeName>Falconry</TreeName>
+    </SelectedEnhancementTrees>
+    <SelectedDestinyTrees>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeName>Legendary Dreadnought</TreeName>
+      <TreeName>Divine Crusader</TreeName>
+    </SelectedDestinyTrees>
+    <Tier5Tree>Assassin</Tier5Tree>
+    <U51Destiny_Tier5Tree>Shadowdancer</U51Destiny_Tier5Tree>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>44</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>12</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Feint</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>5</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Improved Critical: Slashing Weapons</FeatName>
+          <Type>Standard</Type>
+          <LevelTrainedAt>11</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>13</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>14</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>14</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>14</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>14</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>14</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Rogue</Class>
+      <SkillPointsAvailable>14</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Epic</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats>
+        <TrainedFeat>
+          <FeatName>Scion of the Ethereal Plane</FeatName>
+          <Type>Legendary</Type>
+          <LevelTrainedAt>29</LevelTrainedAt>
+        </TrainedFeat>
+      </TrainedFeats>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <LevelTraining>
+      <Class>Legendary</Class>
+      <SkillPointsAvailable>0</SkillPointsAvailable>
+      <SkillPointsSpent>0</SkillPointsSpent>
+      <TrainedFeats/>
+    </LevelTraining>
+    <EnhancementSpendInTree>
+      <TreeName>Thief-Acrobat</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>TACore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>TAFastMovement</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Horizon Walker</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>HWCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWEyeForAccuracy</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWPlanarDodge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWSkills</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWFavoredEnemy</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>HWNoStepMissed</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Shadar-Kai</TreeName>
+      <TreeVersion>2</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLCore2</EnhancementName>
+        <Selection>Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLViciousChain</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLForcefulChain</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLGuileI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLGhastlyChain</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLGuileII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLDisplacement</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>ShadarKaiLGreaterSpikedChainAttack</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Assassin</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>AssCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssVenomedBlades</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssSneakAttackTrainingI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssStealthy</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssSneakAttackTrainingII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssToxinAffinity</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssDamageBoost</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssAbilityScoreI</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssSneakAttackTrainingIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssAbilityScoreII</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssExecute</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssSneakAttackTrainingIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssLightArmorMastery</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssKnifeSpecialization</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssMeasureTheFoe</EnhancementName>
+        <Ranks>3</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssAssassinate</EnhancementName>
+        <Ranks>1</Ranks>
+        <IsTier5/>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>AssCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <EnhancementSpendInTree>
+      <TreeName>Vistani Knife Fighter</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>UndeadHunter</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>MistStalkerI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>RapidAttack</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniHasteBoost</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniKnifeTrainingII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>WeaponVersatility</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GiftedI</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DeadlyBlades</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>VistaniKnifeTrainingIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DoubleDaggers</EnhancementName>
+        <Selection>Double Daggers</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>Celerity</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </EnhancementSpendInTree>
+    <ReaperSpendInTree>
+      <TreeName>Grim Barricade</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>GrimCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimBulwarkShroudI</EnhancementName>
+        <Selection>PRR</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersSaveI</EnhancementName>
+        <Selection>Reflex Save</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimAbilityI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersLuck</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersEvasionI</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersSaveII</EnhancementName>
+        <Selection>Reflex Save</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimBulwarkShroudII</EnhancementName>
+        <Selection>PRR</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimAbilityII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersEvasionII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimBulwarkShroudIII</EnhancementName>
+        <Selection>PRR</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersSaveIII</EnhancementName>
+        <Selection>Reflex Save</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersEvasionIII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimAbilityIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersHeightenedEvasionI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersSteadfastness</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersResistance</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimBulwarkShroudIV</EnhancementName>
+        <Selection>PRR</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimBulwarkShroudV</EnhancementName>
+        <Selection>PRR</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersSaveV</EnhancementName>
+        <Selection>Reflex Save</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersCharge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimAbilityV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimReapersHeightenedEvasionII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>GrimCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </ReaperSpendInTree>
+    <ReaperSpendInTree>
+      <TreeName>Dread Adversary</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>DreadAdversaryCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersBladeI</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersTacticsI</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersAbilityI</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersShotI</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersStrike</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadAdversaryCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersBladeII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersTacticsII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersShotII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersAbilityII</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadAdversaryCore3</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersAbilityIII</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersTacticsIII</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersBladeIII</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersShotIII</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersBladeIV</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersImbuement</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadAdversaryCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersDeadlyStrikes</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersShotIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadAdversaryCore5</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersBladeV</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersTacticsIV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersCharge</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersAbilityIV</EnhancementName>
+        <Selection>+1 Dexterity</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DAReapersShotV</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>DreadAdversaryCore6</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </ReaperSpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Shadowdancer</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerStealthy</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerAssassinate</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerTechnician</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCoverOfDarkness</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerDanceInTheDark</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerShadowform</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerEpicStrike</EnhancementName>
+        <Selection>Shadowstrike (Melee)</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerDepthsOfDarkness</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerShadowcaster</EnhancementName>
+        <Selection>Shadowstriker</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerEpicStrikeUpgrade</EnhancementName>
+        <Selection>Meld into Darkness</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerCore4</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerFromTheShadows</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerDarkMercy</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerBringDarkness</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerEpicStrikeUpgradeII</EnhancementName>
+        <Selection>Improved Meld</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerShadowMastery</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerGreaterShadowform</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51ShadowdancerJustATaste</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Grandmaster of Flowers</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersSerenity</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersStrikeWithPoise</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersEnlightenment</EnhancementName>
+        <Ranks>2</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore2</EnhancementName>
+        <Selection>Silver</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersGrandmasterStrikes</EnhancementName>
+        <Selection>Drifting Lotus</Selection>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersHailOfBlows</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersADanceOfFlowers</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersCore3</EnhancementName>
+        <Selection>Chaotic</Selection>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersStrengthOfStone</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51GrandmasterOfFlowersTheFlickeringFlame</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <DestinySpendInTree>
+      <TreeName>Legendary Dreadnought</TreeName>
+      <TreeVersion>1</TreeVersion>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtCore1</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtPushThroughTheLine</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtEpicTactics</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtExtraActionBoosts</EnhancementName>
+        <Ranks>3</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtCore2</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtGhostTouch</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+      <TrainedEnhancement>
+        <EnhancementName>U51LegendaryDreadnoughtCore3</EnhancementName>
+        <Ranks>1</Ranks>
+      </TrainedEnhancement>
+    </DestinySpendInTree>
+    <FatePoints>13</FatePoints>
+    <ActiveGear>Standard</ActiveGear>
+    <EquippedGear>
+      <Name>Standard</Name>
+      <Helmet>
+        <Name>Dinosaur Bone Helmet</Name>
+        <Icon>Helmet_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Helmet/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>IoD: Accessory: Scale Slot</Type>
+          <SelectedAugment>Scale: +14 Constitution</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+          <SelectedAugment>Fang: Accuracy +21</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: +35 Magical Resistance Rating</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: Dimensional Horn</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Helmet>
+      <Necklace>
+        <Name>Legendary Pendant of the Warrior's Focus</Name>
+        <Icon>Necklace_LegendaryPendantOfTheWarriorsFocus</Icon>
+        <Description>The metal symbol on this chain inspires those who wear it to strike harder and faster.</Description>
+        <DropLocation>Quest: Creeping Death</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Combat Mastery +5: +5 Insight bonus to the DC to resist Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow and Stunning Fist attempts.</EffectDescription>
+        <EffectDescription>Insightful Doublestrike +6%: +6% Insight bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Armor Piercing +20%: +20% Enhancement bonus to bypass enemy fortification.</EffectDescription>
+        <EffectDescription>Insightful Fortitude Save +4: This item gives a +4 Insight bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>5</Amount>
+          <Tactical>Trip</Tactical>
+          <Tactical>Sunder</Tactical>
+          <Tactical>Stun</Tactical>
+          <Tactical>General</Tactical>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <Effect>
+          <Type>FortificationBypass</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>20</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>4</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Necklace>
+      <Trinket>
+        <Name>Legendary Red Raptor Feather</Name>
+        <Icon>Trinket_LegendaryRedRaptorFeather</Icon>
+        <Description>A red plumed feather from a raptor of the Isle of Dread.</Description>
+        <DropLocation>Quest: Captive of the Hidden God</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Insightful Deception +5: +5 Insight bonus to hit and +8 Damage for Sneak Attacks.</EffectDescription>
+        <EffectDescription>Quality Assassinate +3: +3 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.</EffectDescription>
+        <EquipmentSlot>
+          <Trinket/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <Effect>
+          <Type>SneakAttackAttack</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>5</Amount>
+        </Effect>
+        <Effect>
+          <Type>SneakAttackDamage</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Tactical>Assassinate</Tactical>
+        </Effect>
+        <Effect>
+          <Type>Displacement</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>25</Amount>
+          <ApplyAsItemEffect/>
+        </Effect>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Trinket>
+      <Cloak>
+        <Name>Dinosaur Bone Cloak</Name>
+        <Icon>Cloak_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Cloak/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>IoD: Accessory: Scale Slot</Type>
+          <SelectedAugment>Scale: +14 Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+          <SelectedAugment>Fang: Deception +11</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: Stunning</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: Relentless Fury</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Cloak>
+      <Belt>
+        <Name>Lindal's Mighty Belt</Name>
+        <Icon>Belt_LindalsMightyBelt</Icon>
+        <Description>The silver shields on this belt seem to imbue you with magical strength</Description>
+        <DropLocation>Raid: Skeletons in the Closet, Free Yarrow optional chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Extra Lay on Hands +3: You have +3 Lay on Hands charges.</EffectDescription>
+        <EffectDescription>Extra Smites: +3 Smite Evil uses per rest. Smite Evil uses regenerate 15% faster.</EffectDescription>
+        <EffectDescription>Strength +14: Passive: +14 Enhancement Bonus to Strength.</EffectDescription>
+        <EffectDescription>Insightful Sheltering +19: This item provides a +19 Insight bonus to your Physical and Magical Resistance Ratings.</EffectDescription>
+        <EquipmentSlot>
+          <Belt/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>14</Amount>
+          <Ability>Strength</Ability>
+        </Effect>
+        <Effect>
+          <Type>PRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>19</Amount>
+        </Effect>
+        <Effect>
+          <Type>MRR</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>19</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Belt>
+      <Goggles>
+        <Name>Legendary Eternal Flameguard's Lenses</Name>
+        <Icon>Goggles_LegendaryEternalFlameguardsLenses</Icon>
+        <Description>These finely-crafted glasses are best used in tandem with a large and terrifying wolf.</Description>
+        <DropLocation>U56 Quest: ToEE: First Level and Earth Temple, end chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Deadly +11: +11 Competence bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Quality Deadly +3: +3 Quality bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Doublestrike +15%: +15% Enhancement bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Quality Doublestrike +3%: +3% Quality bonus to Doublestrike chance.</EffectDescription>
+        <EquipmentSlot>
+          <Goggles/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Temple's Inferno</SetBonus>
+        <Effect>
+          <Type>DamageBonus</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>11</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>DamageBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Goggles>
+      <Gloves>
+        <Name>Legendary Tinkerer's Gloves</Name>
+        <Icon>Gloves_LegendaryTinkerersGloves</Icon>
+        <Description>Gloves worn by House Cannith tinkers to grant them greater dexterity and aid them in working with complex devices.</Description>
+        <DropLocation>U47 Raid: Legendary Lord of Blades</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Reflex Save +11: This item gives a +11 Resistance bonus to your Reflex save.</EffectDescription>
+        <EffectDescription>Insightful Seeker +6: Passive: +6 Insight Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
+        <EffectDescription>Quality Seeker +3: Passive: +3 Quality Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Tyrannical Tinkerer</SetBonus>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>11</Amount>
+          <Save>Reflex</Save>
+        </Effect>
+        <Effect>
+          <Type>Seeker</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>Seeker</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (Dexterity EIQ)</Type>
+          <SelectedAugment>+6 Insightful Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Gloves>
+      <Boots>
+        <Name>Legendary Deepsnow Boots</Name>
+        <Icon>Boots_LegendaryDeepsnowBoots</Icon>
+        <Description>These boots are perfect for navigating extreme weather.</Description>
+        <DropLocation>U48 Quest: A Frosty Reception</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Constitution +6: Passive: +6 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Constitution +3: Passive: +3 Quality Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Freedom of Movement: This item grants its wearer the ability to move and attack normally while under then influence of maic that impedes movement, such as paralysis, solid fog, slow and web.</EffectDescription>
+        <EffectDescription>Fortitude Save +10: This item gives a +10 Resistance bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Boots/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>Immunity</Type>
+          <Bonus>Stacking</Bonus>
+          <Immunity>Freedom of Movement</Immunity>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>10</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Boots>
+      <Bracers>
+        <Name>Legendary Shackles</Name>
+        <Icon>Bracers_Shackles</Icon>
+        <Description>To hold one back, is to give them strength through freedom.</Description>
+        <DropLocation>Quest: Against the Slavelords</DropLocation>
+        <MinLevel>28</MinLevel>
+        <EquipmentSlot>
+          <Boots/>
+          <Bracers/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>Legendary Slavelords Prefix</Type>
+          <SelectedAugment>Fortification +142%</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Suffix</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Extra</Type>
+          <SelectedAugment>Stunning +15</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Bonus</Type>
+          <SelectedAugment>Quality Dexterity +3</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Set Bonus</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <SlotUpgrade>
+          <Type>Legendary Slavelords Upgrade</Type>
+          <UpgradeType>Blue</UpgradeType>
+          <UpgradeType>Colorless</UpgradeType>
+          <UpgradeType>Green</UpgradeType>
+          <UpgradeType>Yellow</UpgradeType>
+        </SlotUpgrade>
+      </Bracers>
+      <Armor>
+        <Name>Dinosaur Bone Outfit</Name>
+        <Icon>Outfit_DinosaurBone</Icon>
+        <Description>This armor is expertly crafted of impossibly strong Dinosaur bone.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Cloth</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>0</Amount>
+        </Effect>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>999</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>IoD: Armor: Scale Slot</Type>
+          <SelectedAugment>Fragment of Extraplanar Alignment</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Armor: Fang Slot</Type>
+          <SelectedAugment>Goldfang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: +35 Magical Resistance Rating</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: Enhanced Ghostly</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <MainHand>
+        <Name>Attuned Bone Dagger</Name>
+        <Icon>Dagger_AttunedBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>Skeletons in the Closet, Raid Warded Chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Damage and Type 5[1d4+3] + 15 Pierce, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">4</Sides>
+          <Bonus size="1">3</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Pierce</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Dagger</Weapon>
+        <DamageType>Piercing</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Weapon: Scale Slot</Type>
+          <SelectedAugment>Icescale</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Fang Slot</Type>
+          <SelectedAugment>Meltfang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Claw Slot</Type>
+          <SelectedAugment>Shadowclaw: Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Horn Slot</Type>
+          <SelectedAugment>Aspect of Tar</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Orange</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </MainHand>
+      <OffHand>
+        <Name>Attuned Bone Dagger</Name>
+        <Icon>Dagger_AttunedBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>Skeletons in the Closet, Raid Warded Chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Damage and Type 5[1d4+3] + 15 Pierce, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">4</Sides>
+          <Bonus size="1">3</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Pierce</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Dagger</Weapon>
+        <DamageType>Piercing</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Weapon: Scale Slot</Type>
+          <SelectedAugment>MeltScale</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Fang Slot</Type>
+          <SelectedAugment>Flamefang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Claw Slot</Type>
+          <SelectedAugment>Brightclaw: Intelligence</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Horn Slot</Type>
+          <SelectedAugment>Brighthorn</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Orange</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </OffHand>
+      <Ring1>
+        <Name>Dinosaur Bone Ring</Name>
+        <Icon>Ring_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any legendary chest; or Dread saga legendary end reward</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Scale Slot</Type>
+          <SelectedAugment>Scale: +15 Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Fang Slot</Type>
+          <SelectedAugment>Fang: Seeker +15</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Claw Slot</Type>
+          <SelectedAugment>Claw: +17 Assassinate</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Horn Slot</Type>
+          <SelectedAugment>Horn: +12 Resistance</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+        <MinorArtifact/>
+      </Ring1>
+      <Ring2>
+        <Name>Ring of the Silver Tongue</Name>
+        <Icon>Ring_RingOfTheSilverTongue</Icon>
+        <Description>Wearing this, you feel like you can talk your way out of anything.</Description>
+        <DropLocation>Raid: Killing Time</DropLocation>
+        <MinLevel>28</MinLevel>
+        <EffectDescription>Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.</EffectDescription>
+        <EffectDescription>Insightful Deception +5: +5 Insight bonus to hit and +8 Damage for Sneak Attacks.</EffectDescription>
+        <EffectDescription>Assassinate +15: +15 Enhancement bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Insightful Assassinate +7: +7 Insight bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>5</Amount>
+          <Skill>Bluff</Skill>
+        </Effect>
+        <Effect>
+          <Type>SneakAttackAttack</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>5</Amount>
+        </Effect>
+        <Effect>
+          <Type>SneakAttackDamage</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+          <Tactical>Assassinate</Tactical>
+        </Effect>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>7</Amount>
+          <Tactical>Assassinate</Tactical>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+      </Ring2>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <EquippedGear>
+      <Name>1</Name>
+      <Helmet>
+        <Name>Dinosaur Bone Helmet</Name>
+        <Icon>Helmet_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Helmet/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>IoD: Accessory: Scale Slot</Type>
+          <SelectedAugment>Scale: +14 Constitution</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+          <SelectedAugment>Fang: Accuracy +21</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: +35 Magical Resistance Rating</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: Dimensional Horn</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Helmet>
+      <Necklace>
+        <Name>Legendary Pendant of the Warrior's Focus</Name>
+        <Icon>Necklace_LegendaryPendantOfTheWarriorsFocus</Icon>
+        <Description>The metal symbol on this chain inspires those who wear it to strike harder and faster.</Description>
+        <DropLocation>Quest: Creeping Death</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Combat Mastery +5: +5 Insight bonus to the DC to resist Trip, Improved Trip, Sunder, Improved Sunder, Stunning Blow and Stunning Fist attempts.</EffectDescription>
+        <EffectDescription>Insightful Doublestrike +6%: +6% Insight bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Armor Piercing +20%: +20% Enhancement bonus to bypass enemy fortification.</EffectDescription>
+        <EffectDescription>Insightful Fortitude Save +4: This item gives a +4 Insight bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Necklace/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>5</Amount>
+          <Tactical>Trip</Tactical>
+          <Tactical>Sunder</Tactical>
+          <Tactical>Stun</Tactical>
+          <Tactical>General</Tactical>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <Effect>
+          <Type>FortificationBypass</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>20</Amount>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>4</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Necklace>
+      <Trinket>
+        <Name>Legendary Red Raptor Feather</Name>
+        <Icon>Trinket_LegendaryRedRaptorFeather</Icon>
+        <Description>A red plumed feather from a raptor of the Isle of Dread.</Description>
+        <DropLocation>Quest: Captive of the Hidden God</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Insightful Deception +5: +5 Insight bonus to hit and +8 Damage for Sneak Attacks.</EffectDescription>
+        <EffectDescription>Quality Assassinate +3: +3 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Lesser Displacement: Equipping this item causes light to distort around you. Attacks from enemies have a 25% chance to miss you due to concealment.</EffectDescription>
+        <EquipmentSlot>
+          <Trinket/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <Effect>
+          <Type>SneakAttackAttack</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>5</Amount>
+        </Effect>
+        <Effect>
+          <Type>SneakAttackDamage</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Tactical>Assassinate</Tactical>
+        </Effect>
+        <Effect>
+          <Type>Displacement</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>25</Amount>
+          <ApplyAsItemEffect/>
+        </Effect>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Trinket>
+      <Cloak>
+        <Name>Dinosaur Bone Cloak</Name>
+        <Icon>Cloak_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Cloak/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>IoD: Accessory: Scale Slot</Type>
+          <SelectedAugment>Scale: +14 Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Fang Slot</Type>
+          <SelectedAugment>Fang: Deception +11</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: Stunning</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: Relentless Fury</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Cloak>
+      <Belt>
+        <Name>Legendary Admiral's Cummerbund</Name>
+        <Icon>Belt_LegendaryAdmiralsCummerbund</Icon>
+        <Description>This white cloth belt has many silver buttons to clasp.</Description>
+        <DropLocation>Quest: The Trouble with Tar Pits, end chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Parrying +6: +6 Insight bonus to AC and saves.</EffectDescription>
+        <EffectDescription>Law Absorption +23%: Passive: 23% Enhancement Bonus to Law absorption</EffectDescription>
+        <EffectDescription>Chaos Absorption +23%: Passive 23% Enhancement Bonus to Chaos Absorption. (Absorption reduces damage from an element by a percentage, after resistances have been taken into account.)</EffectDescription>
+        <EquipmentSlot>
+          <Belt/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Save>All</Save>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>23</Amount>
+          <Energy>Lawful</Energy>
+        </Effect>
+        <Effect>
+          <Type>EnergyAbsorbance</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>23</Amount>
+          <Energy>Chaos</Energy>
+        </Effect>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Colorless</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Belt>
+      <Goggles>
+        <Name>Legendary Eternal Flameguard's Lenses</Name>
+        <Icon>Goggles_LegendaryEternalFlameguardsLenses</Icon>
+        <Description>These finely-crafted glasses are best used in tandem with a large and terrifying wolf.</Description>
+        <DropLocation>U56 Quest: ToEE: First Level and Earth Temple, end chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Deadly +11: +11 Competence bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Quality Deadly +3: +3 Quality bonus to weapon damage.</EffectDescription>
+        <EffectDescription>Doublestrike +15%: +15% Enhancement bonus to Doublestrike chance.</EffectDescription>
+        <EffectDescription>Quality Doublestrike +3%: +3% Quality bonus to Doublestrike chance.</EffectDescription>
+        <EquipmentSlot>
+          <Goggles/>
+        </EquipmentSlot>
+        <SetBonus>Legendary Temple's Inferno</SetBonus>
+        <Effect>
+          <Type>DamageBonus</Type>
+          <Bonus>Competence</Bonus>
+          <Amount>11</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>DamageBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <Effect>
+          <Type>Doublestrike</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Goggles>
+      <Gloves>
+        <Name>Legendary Tinkerer's Gloves</Name>
+        <Icon>Gloves_LegendaryTinkerersGloves</Icon>
+        <Description>Gloves worn by House Cannith tinkers to grant them greater dexterity and aid them in working with complex devices.</Description>
+        <DropLocation>U47 Raid: Legendary Lord of Blades</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Reflex Save +11: This item gives a +11 Resistance bonus to your Reflex save.</EffectDescription>
+        <EffectDescription>Insightful Seeker +6: Passive: +6 Insight Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
+        <EffectDescription>Quality Seeker +3: Passive: +3 Quality Bonus to Critical Hit Damage and to rolls to confirm a critical hit. (Bonus critical hit damage is applied before weapon multipliers.)</EffectDescription>
+        <EquipmentSlot>
+          <Gloves/>
+        </EquipmentSlot>
+        <SetBonus>Tyrannical Tinkerer</SetBonus>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>11</Amount>
+          <Save>Reflex</Save>
+        </Effect>
+        <Effect>
+          <Type>Seeker</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <Effect>
+          <Type>Seeker</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Weapon>All</Weapon>
+        </Effect>
+        <ItemAugment>
+          <Type>Nearly Finished (Dexterity EIQ)</Type>
+          <SelectedAugment>+6 Insightful Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Gloves>
+      <Boots>
+        <Name>Legendary Deepsnow Boots</Name>
+        <Icon>Boots_LegendaryDeepsnowBoots</Icon>
+        <Description>These boots are perfect for navigating extreme weather.</Description>
+        <DropLocation>U48 Quest: A Frosty Reception</DropLocation>
+        <MinLevel>29</MinLevel>
+        <EffectDescription>Insightful Constitution +6: Passive: +6 Insight Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Quality Constitution +3: Passive: +3 Quality Bonus to Constitution.</EffectDescription>
+        <EffectDescription>Freedom of Movement: This item grants its wearer the ability to move and attack normally while under then influence of maic that impedes movement, such as paralysis, solid fog, slow and web.</EffectDescription>
+        <EffectDescription>Fortitude Save +10: This item gives a +10 Resistance bonus to your Fortitude save.</EffectDescription>
+        <EquipmentSlot>
+          <Boots/>
+        </EquipmentSlot>
+        <SetBonus>Eminence of Winter</SetBonus>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>6</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>AbilityBonus</Type>
+          <Bonus>Quality</Bonus>
+          <Amount>3</Amount>
+          <Ability>Constitution</Ability>
+        </Effect>
+        <Effect>
+          <Type>Immunity</Type>
+          <Bonus>Stacking</Bonus>
+          <Immunity>Freedom of Movement</Immunity>
+        </Effect>
+        <Effect>
+          <Type>SaveBonus</Type>
+          <Bonus>Resistance</Bonus>
+          <Amount>10</Amount>
+          <Save>Fortitude</Save>
+        </Effect>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Boots>
+      <Bracers>
+        <Name>Legendary Shackles</Name>
+        <Icon>Bracers_Shackles</Icon>
+        <Description>To hold one back, is to give them strength through freedom.</Description>
+        <DropLocation>Quest: Against the Slavelords</DropLocation>
+        <MinLevel>28</MinLevel>
+        <EquipmentSlot>
+          <Boots/>
+          <Bracers/>
+        </EquipmentSlot>
+        <ItemAugment>
+          <Type>Legendary Slavelords Prefix</Type>
+          <SelectedAugment>Fortification +142%</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Suffix</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Extra</Type>
+          <SelectedAugment>Stunning +15</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Bonus</Type>
+          <SelectedAugment>Quality Dexterity +3</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Legendary Slavelords Set Bonus</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <SlotUpgrade>
+          <Type>Legendary Slavelords Upgrade</Type>
+          <UpgradeType>Blue</UpgradeType>
+          <UpgradeType>Colorless</UpgradeType>
+          <UpgradeType>Green</UpgradeType>
+          <UpgradeType>Yellow</UpgradeType>
+        </SlotUpgrade>
+      </Bracers>
+      <Armor>
+        <Name>Dinosaur Bone Outfit</Name>
+        <Icon>Outfit_DinosaurBone</Icon>
+        <Description>This armor is expertly crafted of impossibly strong Dinosaur bone.</Description>
+        <DropLocation>The Isle of Dread, any chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to AC</EffectDescription>
+        <Requirements>
+          <RequiresNoneOf>
+            <Requirement>
+              <Race>Warforged</Race>
+            </Requirement>
+            <Requirement>
+              <Race>Bladeforged</Race>
+            </Requirement>
+          </RequiresNoneOf>
+        </Requirements>
+        <Armor>Cloth</Armor>
+        <EquipmentSlot>
+          <Armor/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>ArmorCheckPenalty</Type>
+          <Bonus>Armor</Bonus>
+          <Amount>0</Amount>
+        </Effect>
+        <Effect>
+          <Type>MaxDexBonus</Type>
+          <Bonus>Equipment</Bonus>
+          <Amount>999</Amount>
+        </Effect>
+        <Effect>
+          <Type>ACBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+        </Effect>
+        <ItemAugment>
+          <Type>IoD: Armor: Scale Slot</Type>
+          <SelectedAugment>Fragment of Extraplanar Alignment</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Armor: Fang Slot</Type>
+          <SelectedAugment>Goldfang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Claw Slot</Type>
+          <SelectedAugment>Claw: +35 Magical Resistance Rating</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Horn Slot</Type>
+          <SelectedAugment>Horn: +21 Armor Piercing</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Set Bonus Slot</Type>
+          <SelectedAugment>Dread Stalker</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </Armor>
+      <MainHand>
+        <Name>Attuned Bone Dagger</Name>
+        <Icon>Dagger_AttunedBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>Skeletons in the Closet, Raid Warded Chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Damage and Type 5[1d4+3] + 15 Pierce, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">4</Sides>
+          <Bonus size="1">3</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Pierce</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Dagger</Weapon>
+        <DamageType>Piercing</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Weapon: Scale Slot</Type>
+          <SelectedAugment>Icescale</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Fang Slot</Type>
+          <SelectedAugment>Meltfang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Claw Slot</Type>
+          <SelectedAugment>Shadowclaw: Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Horn Slot</Type>
+          <SelectedAugment>Aspect of Tar</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Orange</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </MainHand>
+      <OffHand>
+        <Name>Attuned Bone Dagger</Name>
+        <Icon>Dagger_AttunedBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>Skeletons in the Closet, Raid Warded Chest</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EffectDescription>Damage and Type 5[1d4+3] + 15 Pierce, Magic</EffectDescription>
+        <EffectDescription>Critical Threat Range 19-20 x2</EffectDescription>
+        <EffectDescription>+15 Enhancement Bonus: +15 Enhancement bonus to attack and Damage rolls.</EffectDescription>
+        <Dice>
+          <Number size="1">1</Number>
+          <Sides size="1">4</Sides>
+          <Bonus size="1">3</Bonus>
+        </Dice>
+        <ItemSpecificEffects>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Pierce</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>DRBypass</Type>
+            <Bonus>Stacking</Bonus>
+            <DR>Magic</DR>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponBaseDamageBonus</Type>
+            <Bonus>Base</Bonus>
+            <Amount>5</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalRange</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>CriticalMultiplier</Type>
+            <Bonus>Base</Bonus>
+            <Amount>2</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+          <Effect>
+            <Type>WeaponPlus</Type>
+            <Bonus>WeaponEnchantment</Bonus>
+            <Amount>15</Amount>
+            <Weapon>All</Weapon>
+          </Effect>
+        </ItemSpecificEffects>
+        <CriticalMultiplier>2</CriticalMultiplier>
+        <Weapon>Dagger</Weapon>
+        <DamageType>Piercing</DamageType>
+        <AttackModifier>Strength</AttackModifier>
+        <DamageModifier>Strength</DamageModifier>
+        <EquipmentSlot>
+          <Weapon1/>
+          <Weapon2/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Weapon: Scale Slot</Type>
+          <SelectedAugment>MeltScale</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Fang Slot</Type>
+          <SelectedAugment>Flamefang</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Claw Slot</Type>
+          <SelectedAugment>Brightclaw: Intelligence</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Weapon: Horn Slot</Type>
+          <SelectedAugment>Brighthorn</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Orange</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Purple</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+      </OffHand>
+      <Ring1>
+        <Name>Dinosaur Bone Ring</Name>
+        <Icon>Ring_DinosaurBone</Icon>
+        <Description>Fashioned of intricately carved bones of long-forgotten Dinosaurs.</Description>
+        <DropLocation>The Isle of Dread, any legendary chest; or Dread saga legendary end reward</DropLocation>
+        <MinLevel>31</MinLevel>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <SetBonus>The Legendary Dread Isle's Curse</SetBonus>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Scale Slot</Type>
+          <SelectedAugment>Scale: +15 Dexterity</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Fang Slot</Type>
+          <SelectedAugment>Fang: Seeker +15</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Claw Slot</Type>
+          <SelectedAugment>Claw: +17 Assassinate</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>IoD: Accessory: Artifact Horn Slot</Type>
+          <SelectedAugment>Horn: +12 Resistance</SelectedAugment>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Yellow</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+        <MinorArtifact/>
+      </Ring1>
+      <Ring2>
+        <Name>Ring of the Silver Tongue</Name>
+        <Icon>Ring_RingOfTheSilverTongue</Icon>
+        <Description>Wearing this, you feel like you can talk your way out of anything.</Description>
+        <DropLocation>Raid: Killing Time</DropLocation>
+        <MinLevel>28</MinLevel>
+        <EffectDescription>Improved Deception: This item makes your weapons hard to focus upon and thus provides a +5 enhancement bonus to Bluff checks. In addition, while using this item your weapons have a chance to envelop the target in darkness, making them vulnerable to sneak attacks for a short time.</EffectDescription>
+        <EffectDescription>Insightful Deception +5: +5 Insight bonus to hit and +8 Damage for Sneak Attacks.</EffectDescription>
+        <EffectDescription>Assassinate +15: +15 Enhancement bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Insightful Assassinate +7: +7 Insight bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EquipmentSlot>
+          <Ring/>
+        </EquipmentSlot>
+        <Effect>
+          <Type>SkillBonus</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>5</Amount>
+          <Skill>Bluff</Skill>
+        </Effect>
+        <Effect>
+          <Type>SneakAttackAttack</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>5</Amount>
+        </Effect>
+        <Effect>
+          <Type>SneakAttackDamage</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>8</Amount>
+        </Effect>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Enhancement</Bonus>
+          <Amount>15</Amount>
+          <Tactical>Assassinate</Tactical>
+        </Effect>
+        <Effect>
+          <Type>TacticalDC</Type>
+          <Bonus>Insightful</Bonus>
+          <Amount>7</Amount>
+          <Tactical>Assassinate</Tactical>
+        </Effect>
+        <ItemAugment>
+          <Type>Blue</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Green</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Mythic</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper</Type>
+        </ItemAugment>
+        <ItemAugment>
+          <Type>Reaper Ring</Type>
+        </ItemAugment>
+      </Ring2>
+      <SentientJewel>
+        <NumFiligrees>0</NumFiligrees>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+        <ArtifactFiligree version="1">
+          <Name/>
+        </ArtifactFiligree>
+      </SentientJewel>
+    </EquippedGear>
+    <Notes/>
+  </Character>
+</DDOCharacterData>

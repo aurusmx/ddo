@@ -685,11 +685,6 @@
         <LevelTrainedAt>0</LevelTrainedAt>
       </TrainedFeat>
       <TrainedFeat>
-        <FeatName>Past Life: Cleric (Dark Apostate)</FeatName>
-        <Type>HeroicPastLife</Type>
-        <LevelTrainedAt>0</LevelTrainedAt>
-      </TrainedFeat>
-      <TrainedFeat>
         <FeatName>Past Life: Divine Sphere: Power Over Life and Death</FeatName>
         <Type>EpicPastLife</Type>
         <LevelTrainedAt>0</LevelTrainedAt>
@@ -702,6 +697,71 @@
       <TrainedFeat>
         <FeatName>Past Life: Monk</FeatName>
         <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Fighter</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Fighter</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Rogue</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Primal Sphere: Doubleshot</FeatName>
+        <Type>EpicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Melee Power</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Inherent Ranged Power</FeatName>
+        <Type>SpecialFeat</Type>
         <LevelTrainedAt>0</LevelTrainedAt>
       </TrainedFeat>
     </SpecialFeats>
@@ -719,6 +779,7 @@
       <Stances>Combat Expertise</Stances>
       <Stances>Aasimar</Stances>
       <Stances>Centered</Stances>
+      <Stances>Empty Offhand</Stances>
     </ActiveStances>
     <Level4>Wisdom</Level4>
     <Level8>Wisdom</Level8>
@@ -824,7 +885,7 @@
           <LevelTrainedAt>5</LevelTrainedAt>
         </TrainedFeat>
         <TrainedFeat>
-          <FeatName>Whirlwind Attack</FeatName>
+          <FeatName>Precision</FeatName>
           <Type>Standard</Type>
           <LevelTrainedAt>5</LevelTrainedAt>
         </TrainedFeat>
@@ -920,7 +981,7 @@
       <SkillPointsSpent>0</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
-          <FeatName>Precision</FeatName>
+          <FeatName>Whirlwind Attack</FeatName>
           <Type>Standard</Type>
           <LevelTrainedAt>17</LevelTrainedAt>
         </TrainedFeat>
@@ -1051,7 +1112,7 @@
       <SkillPointsSpent>0</SkillPointsSpent>
       <TrainedFeats>
         <TrainedFeat>
-          <FeatName>Wind through the Trees</FeatName>
+          <FeatName>Crush Weakness</FeatName>
           <Type>EpicDestinyFeat</Type>
           <LevelTrainedAt>30</LevelTrainedAt>
         </TrainedFeat>
@@ -1714,7 +1775,7 @@
         <Description/>
         <DropLocation>Raid: Project Nemesis</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Quality Assassinate +1: +1 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Quality Assassinate +3: +3 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
         <EffectDescription>Insightful Armor-Piercing +10: +10 Insight bonus to bypass enemy fortification.</EffectDescription>
         <EffectDescription>Deadly +11: +11 Competence bonus to weapon damage.</EffectDescription>
         <EffectDescription>Doublestrike +15%: +15% Enhancement bonus to Doublestrike chance.</EffectDescription>
@@ -1725,7 +1786,7 @@
         <Effect>
           <Type>TacticalDC</Type>
           <Bonus>Quality</Bonus>
-          <Amount>1</Amount>
+          <Amount>3</Amount>
           <Tactical>Assassinate</Tactical>
         </Effect>
         <Effect>
@@ -1875,7 +1936,7 @@
         <DropLocation>Raid: Too Hot to Handle</DropLocation>
         <MinLevel>29</MinLevel>
         <EffectDescription>Superior Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one and one half die.</EffectDescription>
-        <EffectDescription>Melee Alacrity 15%: The wielder of this item gain a 15% Enhancement bonus to melee attack speed.</EffectDescription>
+        <EffectDescription>Melee Alacrity 15%: The wielder of this item gains a 15% Enhancement bonus to melee attack speed.</EffectDescription>
         <EffectDescription>Deception +11: +11 Enhancement bonus to hit and +17 Damage for Sneak Attacks.</EffectDescription>
         <EquipmentSlot>
           <Belt/>
@@ -2482,7 +2543,7 @@
         <Description/>
         <DropLocation>Raid: Project Nemesis</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Quality Assassinate +1: +1 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Quality Assassinate +3: +3 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
         <EffectDescription>Insightful Armor-Piercing +10: +10 Insight bonus to bypass enemy fortification.</EffectDescription>
         <EffectDescription>Deadly +11: +11 Competence bonus to weapon damage.</EffectDescription>
         <EffectDescription>Doublestrike +15%: +15% Enhancement bonus to Doublestrike chance.</EffectDescription>
@@ -2493,7 +2554,7 @@
         <Effect>
           <Type>TacticalDC</Type>
           <Bonus>Quality</Bonus>
-          <Amount>1</Amount>
+          <Amount>3</Amount>
           <Tactical>Assassinate</Tactical>
         </Effect>
         <Effect>
@@ -2658,7 +2719,7 @@
         <DropLocation>Raid: Too Hot to Handle</DropLocation>
         <MinLevel>29</MinLevel>
         <EffectDescription>Superior Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one and one half die.</EffectDescription>
-        <EffectDescription>Melee Alacrity 15%: The wielder of this item gain a 15% Enhancement bonus to melee attack speed.</EffectDescription>
+        <EffectDescription>Melee Alacrity 15%: The wielder of this item gains a 15% Enhancement bonus to melee attack speed.</EffectDescription>
         <EffectDescription>Deception +11: +11 Enhancement bonus to hit and +17 Damage for Sneak Attacks.</EffectDescription>
         <EquipmentSlot>
           <Belt/>
@@ -3274,7 +3335,7 @@
         <Description/>
         <DropLocation>Raid: Project Nemesis</DropLocation>
         <MinLevel>29</MinLevel>
-        <EffectDescription>Quality Assassinate +1: +1 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
+        <EffectDescription>Quality Assassinate +3: +3 Quality bonus to the DC of Assassinate attempts.</EffectDescription>
         <EffectDescription>Insightful Armor-Piercing +10: +10 Insight bonus to bypass enemy fortification.</EffectDescription>
         <EffectDescription>Deadly +11: +11 Competence bonus to weapon damage.</EffectDescription>
         <EffectDescription>Doublestrike +15%: +15% Enhancement bonus to Doublestrike chance.</EffectDescription>
@@ -3285,7 +3346,7 @@
         <Effect>
           <Type>TacticalDC</Type>
           <Bonus>Quality</Bonus>
-          <Amount>1</Amount>
+          <Amount>3</Amount>
           <Tactical>Assassinate</Tactical>
         </Effect>
         <Effect>
@@ -3450,7 +3511,7 @@
         <DropLocation>Raid: Too Hot to Handle</DropLocation>
         <MinLevel>29</MinLevel>
         <EffectDescription>Superior Reinforced Fists: This item surrounds your fists with kinetic energy. Your unarmed damage is boosted by one and one half die.</EffectDescription>
-        <EffectDescription>Melee Alacrity 15%: The wielder of this item gain a 15% Enhancement bonus to melee attack speed.</EffectDescription>
+        <EffectDescription>Melee Alacrity 15%: The wielder of this item gains a 15% Enhancement bonus to melee attack speed.</EffectDescription>
         <EffectDescription>Deception +11: +11 Enhancement bonus to hit and +17 Damage for Sneak Attacks.</EffectDescription>
         <EquipmentSlot>
           <Belt/>

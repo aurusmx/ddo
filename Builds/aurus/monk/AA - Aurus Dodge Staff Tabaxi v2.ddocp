@@ -684,6 +684,11 @@
         <Type>RacialPastLife</Type>
         <LevelTrainedAt>0</LevelTrainedAt>
       </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Horizon Walker Tree</FeatName>
+        <Type>SpecialFeat</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
     </SpecialFeats>
     <ActiveStances>
       <Stances>Lawful</Stances>
@@ -701,6 +706,7 @@
       <Stances>Quarterstaff</Stances>
       <Stances>Combat Expertise</Stances>
       <Stances>Reaper</Stances>
+      <Stances>Empty Offhand</Stances>
     </ActiveStances>
     <Level4>Wisdom</Level4>
     <Level8>Wisdom</Level8>
@@ -720,7 +726,7 @@
       <TreeName>Henshin Mystic</TreeName>
       <TreeName>Falconry</TreeName>
       <TreeName>Vistani Knife Fighter</TreeName>
-      <TreeName>Ninja Spy</TreeName>
+      <TreeName>Horizon Walker</TreeName>
       <TreeName>Shintao</TreeName>
       <TreeName>Harper Agent</TreeName>
     </SelectedEnhancementTrees>

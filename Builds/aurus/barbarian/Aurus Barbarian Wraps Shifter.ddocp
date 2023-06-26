@@ -759,6 +759,16 @@
         <Type>SpecialFeat</Type>
         <LevelTrainedAt>0</LevelTrainedAt>
       </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Razorclaw Shifter</FeatName>
+        <Type>IconicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
+      <TrainedFeat>
+        <FeatName>Past Life: Barbarian</FeatName>
+        <Type>HeroicPastLife</Type>
+        <LevelTrainedAt>0</LevelTrainedAt>
+      </TrainedFeat>
     </SpecialFeats>
     <ActiveStances>
       <Stances>Empty Offhand</Stances>

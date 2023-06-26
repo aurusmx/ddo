@@ -6,20 +6,17 @@
   <Aliases/>
 
   <Layouts>
-    <Layout ID="0x220006ED">
-      <Element Height="0.161806" ID="HotStoryQuestJournal_QuestEntry" Width="0.132422" X="0.867383" Y="0.000347"/>
-    </Layout>
     <Layout ID="0x22000019">
       <Element Height="0.401389" ID="CharacterSheetField" Width="0.206641" X="0.395508" Y="0.299653"/>
+    </Layout>
+    <Layout ID="0x220006ED">
+      <Element Height="0.166667" ID="HotStoryQuestJournal_QuestEntry" Width="0.132422" X="0.867383" Y="0.000347"/>
     </Layout>
     <Layout ID="0x22000076">
       <Element Height="0.606250" ID="SocialField" Width="0.567578" X="0.327930" Y="0.004514"/>
     </Layout>
     <Layout ID="0x22000876">
       <Element Height="0.400694" ID="ImageRewardGallery_Menu" Width="0.326172" X="-0.000195" Y="0.000347"/>
-    </Layout>
-    <Layout ID="0x220005DC">
-      <Element Height="0.401389" ID="AdventureCompendium_Field" Width="0.249609" X="0.216602" Y="0.067014"/>
     </Layout>
     <Layout ID="0x2200004A">
       <Element Height="0.194444" ID="HotQuestJournal_QuestEntry" Width="0.132422" X="0.867383" Y="0.000347"/>
@@ -30,6 +27,9 @@
       <Element Height="0.627778" ID="Account_Bank_Field" Width="0.369141" X="0.319336" Y="0.065625"/>
       <Element Height="0.350694" ID="Character_Bank_Field" Width="0.252734" X="0.746680" Y="0.077431"/>
       <Element Height="0.550000" ID="Reincarnation_Bank_Field" Width="0.268359" X="0.388477" Y="0.288542"/>
+    </Layout>
+    <Layout ID="0x220005DC">
+      <Element Height="0.401389" ID="AdventureCompendium_Field" Width="0.249609" X="0.216602" Y="0.067014"/>
     </Layout>
     <Layout ID="0x22000862">
       <Element Height="0.405556" ID="DailiesRewardField" Width="0.169531" X="0.378711" Y="0.054514"/>
@@ -45,50 +45,50 @@
       <Element Height="0.400694" ID="AirshipShowroom_Menu" Width="0.325781" X="-0.000195" Y="0.000347"/>
     </Layout>
     <Layout ID="0x2200084D">
-      <Element Height="0.172917" ID="GlobalObjectives" Width="0.155859" X="0.843555" Y="0.000347"/>
+      <Element Height="0.020139" ID="GlobalObjectives" Width="0.155859" X="0.843555" Y="0.000347"/>
     </Layout>
-    <Layout ID="0x2200000B">
-      <Element Height="0.234722" ID="FellowshipDisplay" Width="0.134375" X="0.000977" Y="0.318403"/>
-      <Element Height="0.057639" ID="FocusField" Width="0.080078" X="0.120508" Y="0.051042"/>
-      <Element Height="0.043750" ID="PendingChallengeButton" Width="0.049609" X="0.451758" Y="0.393403"/>
-      <Element Height="0.085417" ID="FocusOrb" Width="0.119922" X="0.600586" Y="0.705903"/>
-      <Element Height="0.029861" ID="HenchmanBar" Width="0.170703" X="0.426758" Y="0.692014"/>
-      <Element Height="0.082639" ID="AlchemistReactionDisplay" Width="0.046484" X="-0.000195" Y="0.188542"/>
-      <Element Height="0.061111" ID="Vitals" Width="0.100391" X="-0.000195" Y="0.077431"/>
-      <Element Height="0.128472" ID="FocusOrb_Classic" Width="0.052734" X="0.745508" Y="0.635764"/>
-      <Element Height="0.052778" ID="Vitals_minimal" Width="0.075391" X="0.007227" Y="0.077431"/>
-      <Element Height="0.025000" ID="Hud_NetStatus_Vessel" Width="0.015234" X="0.476758" Y="0.000347"/>
-      <Element Height="0.031945" ID="ShortcutsBar" Width="0.157422" X="0.245508" Y="0.948264"/>
+    <Layout ID="0x2200087D">
+      <Element Height="0.406944" ID="HenchmanCustomizeAI_Menu" Width="0.128906" X="-0.000195" Y="0.000347"/>
     </Layout>
     <Layout ID="0x220005CB">
       <Element Height="0.222222" ID="Mail_MainField" Width="0.200391" X="0.501758" Y="0.000347"/>
     </Layout>
-    <Layout ID="0x2200087D">
-      <Element Height="0.406944" ID="HenchmanCustomizeAI_Menu" Width="0.128906" X="-0.000195" Y="0.000347"/>
+    <Layout ID="0x2200000B">
+      <Element Height="0.057639" ID="FocusField" Width="0.080078" X="0.120508" Y="0.051042"/>
+      <Element Height="0.234722" ID="FellowshipDisplay" Width="0.134375" X="0.000977" Y="0.318403"/>
+      <Element Height="0.043750" ID="PendingChallengeButton" Width="0.049609" X="0.451758" Y="0.393403"/>
+      <Element Height="0.085417" ID="FocusOrb" Width="0.119922" X="0.600586" Y="0.705903"/>
+      <Element Height="0.029861" ID="HenchmanBar" Width="0.170703" X="0.426758" Y="0.692014"/>
+      <Element Height="0.082639" ID="AlchemistReactionDisplay" Width="0.046484" X="-0.000195" Y="0.188542"/>
+      <Element Height="0.128472" ID="FocusOrb_Classic" Width="0.052734" X="0.665820" Y="0.667014"/>
+      <Element Height="0.061111" ID="Vitals" Width="0.100391" X="-0.000195" Y="0.077431"/>
+      <Element Height="0.052778" ID="Vitals_minimal" Width="0.075391" X="0.007227" Y="0.077431"/>
+      <Element Height="0.025000" ID="Hud_NetStatus_Vessel" Width="0.015234" X="0.476758" Y="0.000347"/>
+      <Element Height="0.031945" ID="ShortcutsBar" Width="0.157422" X="0.245508" Y="0.948264"/>
     </Layout>
     <Layout ID="0x220005E3">
       <Element Height="0.100000" ID="ArenaScoring_SummaryPanel" Width="0.132422" X="0.339258" Y="0.096875"/>
     </Layout>
     <Layout ID="0x22000069">
-      <Element Height="0.030556" ID="UndockedShortcut17_Horizontal_MarkerList" Width="0.157031" X="0.561133" Y="0.799653"/>
+      <Element Height="0.030555" ID="UndockedShortcut17_Horizontal_MarkerList" Width="0.157031" X="0.561133" Y="0.799653"/>
       <Element Height="0.030556" ID="UndockedShortcut1_Horizontal_MarkerList" Width="0.157031" X="0.246680" Y="0.918403"/>
       <Element Height="0.030556" ID="UndockedShortcut2_Horizontal_MarkerList" Width="0.157031" X="0.246680" Y="0.888542"/>
       <Element Height="0.030555" ID="UndockedShortcut3_Horizontal_MarkerList" Width="0.157031" X="0.246680" Y="0.858681"/>
       <Element Height="0.030556" ID="UndockedShortcut4_Horizontal_MarkerList" Width="0.157031" X="0.246680" Y="0.829514"/>
-      <Element Height="0.030556" ID="UndockedShortcut5_Horizontal_MarkerList" Width="0.157031" X="0.246680" Y="0.799653"/>
-      <Element Height="0.030556" ID="UndockedShortcut6_Horizontal_MarkerList" Width="0.157031" X="0.401758" Y="0.948264"/>
+      <Element Height="0.030555" ID="UndockedShortcut5_Horizontal_MarkerList" Width="0.157031" X="0.246680" Y="0.799653"/>
       <Element Height="0.276389" ID="UndockedShortcut18_Vertical_MarkerList" Width="0.016406" X="0.966602" Y="0.688542"/>
+      <Element Height="0.030556" ID="UndockedShortcut6_Horizontal_MarkerList" Width="0.157031" X="0.401758" Y="0.948264"/>
       <Element Height="0.030556" ID="UndockedShortcut7_Horizontal_MarkerList" Width="0.157031" X="0.402930" Y="0.918403"/>
-      <Element Height="0.276389" ID="UndockedShortcut19_Vertical_MarkerList" Width="0.016406" X="0.983398" Y="0.685764"/>
+      <Element Height="0.276389" ID="UndockedShortcut19_Vertical_MarkerList" Width="0.016406" X="0.983008" Y="0.685764"/>
+      <Element Height="0.030555" ID="UndockedShortcut8_Horizontal_MarkerList" Width="0.157031" X="0.403711" Y="0.889931"/>
       <Element Height="0.030556" ID="UndockedShortcut10_Horizontal_MarkerList" Width="0.157031" X="0.404102" Y="0.829514"/>
-      <Element Height="0.030556" ID="UndockedShortcut8_Horizontal_MarkerList" Width="0.157031" X="0.403711" Y="0.889931"/>
-      <Element Height="0.030556" ID="UndockedShortcut11_Horizontal_MarkerList" Width="0.157031" X="0.403711" Y="0.799653"/>
       <Element Height="0.030555" ID="UndockedShortcut9_Horizontal_MarkerList" Width="0.156641" X="0.403711" Y="0.858681"/>
+      <Element Height="0.030555" ID="UndockedShortcut11_Horizontal_MarkerList" Width="0.157031" X="0.403711" Y="0.799653"/>
       <Element Height="0.030556" ID="UndockedShortcut12_Horizontal_MarkerList" Width="0.157031" X="0.560352" Y="0.948264"/>
       <Element Height="0.030556" ID="UndockedShortcut13_Horizontal_MarkerList" Width="0.157031" X="0.560352" Y="0.918403"/>
       <Element Height="0.030556" ID="UndockedShortcut14_Horizontal_MarkerList" Width="0.157031" X="0.560352" Y="0.888542"/>
       <Element Height="0.030555" ID="UndockedShortcut15_Horizontal_MarkerList" Width="0.157031" X="0.561133" Y="0.858681"/>
-      <Element Height="0.030556" ID="UndockedShortcut16_Horizontal_MarkerList" Width="0.157031" X="0.561133" Y="0.830903"/>
+      <Element Height="0.030555" ID="UndockedShortcut16_Horizontal_MarkerList" Width="0.157031" X="0.561133" Y="0.830903"/>
     </Layout>
     <Layout ID="0x22000880">
       <Element Height="0.329167" ID="Augment_MainField" Width="0.127734" X="-0.000195" Y="0.000347"/>
@@ -105,11 +105,11 @@
     <Layout ID="0x22000885">
       <Element Height="0.331250" ID="SentientSlot_MainField" Width="0.088672" X="0.189258" Y="0.459375"/>
     </Layout>
-    <Layout ID="0x22000858">
-      <Element Height="0.509722" ID="EpicDesitiny_Menu" Width="0.325781" X="0.308008" Y="0.046181"/>
-    </Layout>
     <Layout ID="0x2200009E">
       <Element Height="0.148611" ID="RadarField" Width="0.064062" X="0.776758" Y="0.000347"/>
+    </Layout>
+    <Layout ID="0x22000858">
+      <Element Height="0.509722" ID="EpicDesitiny_Menu" Width="0.325781" X="0.308008" Y="0.046181"/>
     </Layout>
     <Layout ID="0x22000859">
       <Element Height="0.400694" ID="MonsterManual_Menu" Width="0.285156" X="0.036133" Y="0.000347"/>
@@ -118,7 +118,7 @@
       <Element Height="0.509722" ID="reincarnation_mainField" Width="0.286719" X="-0.000195" Y="0.000347"/>
     </Layout>
     <Layout ID="0x22000015">
-      <Element Height="0.436805" ID="Inventory_Field" Width="0.206641" X="0.789648" Y="0.563542"/>
+      <Element Height="0.436805" ID="Inventory_Field" Width="0.206641" X="0.789258" Y="0.563542"/>
     </Layout>
     <Layout ID="0x220000A1">
       <Element Height="0.048611" ID="Dice_Field" Width="0.101172" X="0.281836" Y="0.742014"/>
@@ -127,7 +127,7 @@
       <Element Height="0.400694" ID="AmenityInventory_Menu" Width="0.325781" X="-0.000195" Y="0.000347"/>
     </Layout>
     <Layout ID="0x2200008B">
-      <Element Height="0.375000" ID="ChatDisplay1" Width="0.246094" X="-0.000195" Y="0.623264"/>
+      <Element Height="0.375000" ID="ChatDisplay1" Width="0.246094" X="-0.000195" Y="0.625347"/>
     </Layout>
   </Layouts>
 
